@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\3dserpinsky\main.cpp(95): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  3Dserpinsky.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\3Dserpinsky.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\scanline\main.cpp(234): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\scanline\main.cpp(235): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\scanline\main.cpp(302): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  scanLine.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\scanLine.exe

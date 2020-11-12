@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\line\main.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  line.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\line.exe

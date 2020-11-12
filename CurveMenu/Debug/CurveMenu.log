@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(92): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(93): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\curvemenu\main.cpp(94): warning C4305: '=': truncation from 'double' to 'float'
+  CurveMenu.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\CurveMenu.exe

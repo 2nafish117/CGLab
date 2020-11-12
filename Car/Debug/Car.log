@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\tunafish117\Documents\Dev\cpp\CGLab\Car\main.cpp(14,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tunafish117\Documents\Dev\cpp\CGLab\Car\main.cpp(22,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tunafish117\Documents\Dev\cpp\CGLab\Car\main.cpp(82,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Car.vcxproj -> C:\Users\tunafish117\Documents\Dev\cpp\CGLab\Debug\Car.exe

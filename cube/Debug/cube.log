@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\cube\main.cpp(205): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  cube.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\cube.exe

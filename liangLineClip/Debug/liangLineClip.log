@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\lianglineclip\main.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\lianglineclip\main.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\lianglineclip\main.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\lianglineclip\main.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\lianglineclip\main.cpp(245): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  liangLineClip.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\liangLineClip.exe

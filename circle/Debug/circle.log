@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(52): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(139): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\2nafish117\documents\dev\cpp\cglab\circle\main.cpp(167): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  circle.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\circle.exe

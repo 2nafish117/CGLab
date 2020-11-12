@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\cohenclip\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  cohenClip.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\cohenClip.exe

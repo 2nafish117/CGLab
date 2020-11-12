@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\2nafish117\documents\dev\cpp\cglab\housetransform\main.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2nafish117\documents\dev\cpp\cglab\housetransform\main.cpp(89): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\2nafish117\documents\dev\cpp\cglab\housetransform\main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  houseTransform.vcxproj -> C:\Users\2nafish117\Documents\Dev\cpp\CGLab\Debug\houseTransform.exe
